@@ -1,0 +1,119 @@
+Eldridge
+San Diego
+Washington
+South Dakota
+Yuudachi
+Yukikaze
+Kaga
+Akagi
+Illustrious
+Unicorn
+Takao 
+Atago
+Maya
+Shoukaku
+Zuikaku
+Soryuu
+Hiryuu
+Graf Zeppelin
+Admiral Graf Spee
+Scharnhorst
+Gneisenau
+An Shan
+Fun Shan
+Ning Hai
+Ping Hai
+Yat Sen
+Harutsuki
+Agano
+Little Bel
+Enterprise
+Avrora
+Long Island
+Jean Bart
+Sirius
+Victorious
+Mushashi
+Yamato
+Cleveland
+Javellin
+Ayanami
+Z-23
+Edinburg
+Queen Elizabeth
+Rodney
+Warspite
+Hood
+Prince of Wales
+Nagato
+Fuso
+Yukishiro
+Kongou
+Admiral Hipper
+Terror
+York
+London
+Glowworm
+Bismark
+Amazon
+Kangerou
+Hatsuharu
+San Juan
+Mutsuki
+Yayoi
+Essex
+Prinz Eugen
+Z-1
+Taihou
+Fubuki
+Belfast
+Eldridge
+Amagi
+Le Triomphant
+U-552
+I-25
+I-56
+U-110
+Norfolk 
+Suffolk
+Yorktown
+Comet
+Aoba
+Koln
+Chikuma
+Pola
+Jeanne d'Arc
+Gascone
+Monarch
+Neptune
+Roon
+Saint Louis
+Kizuna AI
+Saratoga
+Fortune
+Yuugure
+Laffley
+Diponegoro
+Martadinata
+John Lie
+Teuku Umar
+Nagapasa
+Alugoro
+Ardadedali
+Changbogo
+Collins
+Adelaide
+Hobart
+Brisbane
+Anzac
+Arunta
+Warramunga
+Stuart
+Perth
+Akagi:Kaga
+Fubuki:Essex
+Kizuna AI:Gascone
+Pola:Aoba
+Perth:Anzac
+
+Anzac:Collins
